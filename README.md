@@ -1,0 +1,1 @@
+# gecti_kaldi_not
